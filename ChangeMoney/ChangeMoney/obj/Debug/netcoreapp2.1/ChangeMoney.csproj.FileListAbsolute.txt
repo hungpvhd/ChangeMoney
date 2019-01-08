@@ -1,0 +1,14 @@
+C:\Users\Do Not Open!\source\repos\ChangeMoney\ChangeMoney\bin\Debug\netcoreapp2.1\ChangeMoney.deps.json
+C:\Users\Do Not Open!\source\repos\ChangeMoney\ChangeMoney\bin\Debug\netcoreapp2.1\ChangeMoney.runtimeconfig.json
+C:\Users\Do Not Open!\source\repos\ChangeMoney\ChangeMoney\bin\Debug\netcoreapp2.1\ChangeMoney.runtimeconfig.dev.json
+C:\Users\Do Not Open!\source\repos\ChangeMoney\ChangeMoney\bin\Debug\netcoreapp2.1\ChangeMoney.dll
+C:\Users\Do Not Open!\source\repos\ChangeMoney\ChangeMoney\obj\Debug\netcoreapp2.1\ChangeMoney.csprojAssemblyReference.cache
+C:\Users\Do Not Open!\source\repos\ChangeMoney\ChangeMoney\obj\Debug\netcoreapp2.1\ChangeMoney.csproj.CoreCompileInputs.cache
+C:\Users\Do Not Open!\source\repos\ChangeMoney\ChangeMoney\obj\Debug\netcoreapp2.1\ChangeMoney.RazorAssemblyInfo.cache
+C:\Users\Do Not Open!\source\repos\ChangeMoney\ChangeMoney\obj\Debug\netcoreapp2.1\ChangeMoney.RazorAssemblyInfo.cs
+C:\Users\Do Not Open!\source\repos\ChangeMoney\ChangeMoney\obj\Debug\netcoreapp2.1\ChangeMoney.AssemblyInfoInputs.cache
+C:\Users\Do Not Open!\source\repos\ChangeMoney\ChangeMoney\obj\Debug\netcoreapp2.1\ChangeMoney.AssemblyInfo.cs
+C:\Users\Do Not Open!\source\repos\ChangeMoney\ChangeMoney\obj\Debug\netcoreapp2.1\ChangeMoney.RazorTargetAssemblyInfo.cache
+C:\Users\Do Not Open!\source\repos\ChangeMoney\ChangeMoney\bin\Debug\netcoreapp2.1\ChangeMoney.pdb
+C:\Users\Do Not Open!\source\repos\ChangeMoney\ChangeMoney\obj\Debug\netcoreapp2.1\ChangeMoney.dll
+C:\Users\Do Not Open!\source\repos\ChangeMoney\ChangeMoney\obj\Debug\netcoreapp2.1\ChangeMoney.pdb
